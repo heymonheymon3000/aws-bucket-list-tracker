@@ -122,7 +122,7 @@ export default function App() {
                 placeholder="Bucket List Item"
                 label="Bucket List Item"
                 labelHidden
-                variation="quiet"
+               
                 required
               />
               <TextField
@@ -130,7 +130,7 @@ export default function App() {
                 placeholder="Description"
                 label="Description"
                 labelHidden
-                variation="quiet"
+                
                 required
               />
               <View
