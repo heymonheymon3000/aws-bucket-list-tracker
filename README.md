@@ -18,6 +18,13 @@ AWS Amplify was chosen for its ability to streamline the development process and
 
 This project exemplifies the effectiveness of combining modern web technologies and cloud services to create scalable and maintainable applications with ease.
 
+## 🛠️ Services used
+* **AWS Amplify**: Deployment of frontend and backend services.
+* **AWS AppSync**: Simplifies building and managing scalable GraphQL APIs.
+* **GraphQL API**: Allows clients to request only the data they need. [API & Schema]
+* **DynamoDB**: DynamoDB for storing and managing bucket list items.[Database]
+* **S3 bucket**: For storage of user images. [Storage]
+
 ## ☁️ Architecture
 ![alt text](design/bucket-list-tracker.png)
 
